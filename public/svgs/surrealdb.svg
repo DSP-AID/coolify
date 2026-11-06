@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="surrealdb-g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A4FF2"/>
+      <stop offset="1" stop-color="#F0497E"/>
+    </linearGradient>
+  </defs>
+  <path d="M48 20c0-5.5-8.5-9-16-9s-16 3.5-16 9v2.5c0 4.4 5.4 6.4 12.5 7.6l7.5 1.3c5 .9 6 2.4 6 4.6v2c0 5.5-8.5 9-16 9s-16-3.5-16-9" stroke="url(#surrealdb-g)" stroke-width="7" stroke-linecap="round"/>
+</svg>
